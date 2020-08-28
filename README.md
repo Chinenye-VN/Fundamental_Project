@@ -22,7 +22,7 @@ Application deployed to a cloud-based virtual machine
 
 * [Planning](#Planning)
   
-* [Project tracking](#Projecttracking)
+ * [Project tracking](#Projecttracking)
 
 * [Risk Assessment](#RiskAssessment)
 
@@ -33,6 +33,9 @@ Application deployed to a cloud-based virtual machine
 * [Results](#Results)
 
 #### Overview
- This app allows customers to book the type of nail service they require.
- There are many 10 services that they can choose from, with the duration of the service and the price of the service is given.
- I chose to do this application as it is something that I would use myself as I enjoy getting my nails done and there are amny services to choose from so a customer can choose to have more than one service at a time.
+ This app allows customers to book the type of nail service they require. The customer will be able to manage their bookings by selecting a treatment.
+ For the CRUD functionality, the user can create a login in order to book a service, which will be stored in my Customers Database. The user can view and edit     their bookings which will then be updated in database.
+ 
+#### Project Tracking 
+Initially had three relationship tables, however if would have been difficult to implement the relationship between all three, so for simplcity and due to lack of time I reduced the database to two tables. 
+  
