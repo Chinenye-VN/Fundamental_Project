@@ -37,17 +37,23 @@ Application deployed to a cloud-based virtual machine
  For the CRUD functionality, the user can create a login in order to book a service, which will be stored in my Customers Database. The user can view and edit     their bookings which will then be updated in database.
  
 #### Project Tracking 
-Initially had three relationship tables, however if would have been difficult to implement the relationship between all three, so for simplcity and due to lack of time I reduced the database to two tables.
+Initially had three relationship tables, however if would have been difficult to implement the relationship between all three, so for simplicity and due to lack of time I reduced the database to two tables.
+
+
 ![ERD](https://user-images.githubusercontent.com/67292767/92315028-03908a00-efd8-11ea-9741-66f749829379.png)
+
 ![ERD](https://user-images.githubusercontent.com/67292767/92315030-07241100-efd8-11ea-93a3-aa477607ce2f.png)
 
 ![Backlog](https://user-images.githubusercontent.com/67292767/92315039-11dea600-efd8-11ea-90c3-1b341f93b84c.png)
-![Sprint Board]()
+
+![Sprint Board](https://user-images.githubusercontent.com/67292767/92315020-e2c83480-efd7-11ea-9e65-cc0018f92e25.png)
 
 #### Risk Assessment
+
 ![Risk Assessment Table]()
 
 #### Testing
+
 ![CircleCI Test](https://user-images.githubusercontent.com/67292767/92315027-fffd0300-efd7-11ea-82df-0d8545b148e2.png)
 
 #### Technology
