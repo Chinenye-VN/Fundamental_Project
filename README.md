@@ -37,5 +37,6 @@ Application deployed to a cloud-based virtual machine
  For the CRUD functionality, the user can create a login in order to book a service, which will be stored in my Customers Database. The user can view and edit     their bookings which will then be updated in database.
  
 #### Project Tracking 
-Initially had three relationship tables, however if would have been difficult to implement the relationship between all three, so for simplcity and due to lack of time I reduced the database to two tables. 
+Initially had three relationship tables, however if would have been difficult to implement the relationship between all three, so for simplcity and due to lack of time I reduced the database to two tables.
+![ERD](/pictures/ERD1.png)
   
