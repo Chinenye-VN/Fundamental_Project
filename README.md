@@ -50,7 +50,7 @@ Initially had three relationship tables, however if would have been difficult to
 
 #### Risk Assessment
 
-![Risk Assessment Table]()
+![Risk Assessment Table](https://user-images.githubusercontent.com/67292767/92315234-95999200-efda-11ea-9eeb-a0a210a9193d.png)
 
 #### Testing
 
