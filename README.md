@@ -38,5 +38,5 @@ Application deployed to a cloud-based virtual machine
  
 #### Project Tracking 
 Initially had three relationship tables, however if would have been difficult to implement the relationship between all three, so for simplcity and due to lack of time I reduced the database to two tables.
-![ERD](images/ERD1.png)
+![ERD](https://user-images.githubusercontent.com/67292767/92315020-e2c83480-efd7-11ea-9e65-cc0018f92e25.png)
   
