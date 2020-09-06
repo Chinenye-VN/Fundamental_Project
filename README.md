@@ -48,6 +48,7 @@ Whenever planning a project one needs to think of the potential risks that may o
 Testing was run on CircleCI to check whether the code is working correctly and up to date. The testing passed as seen in the image.
 
 ![CircleCI Test](https://user-images.githubusercontent.com/67292767/92315027-fffd0300-efd7-11ea-82df-0d8545b148e2.png)
+![Test](https://user-images.githubusercontent.com/67292767/92337258-559ce280-f0a0-11ea-87a8-0a92a2a89335.png)
 
 #### Technology
 ## CI Pipleine
@@ -58,7 +59,7 @@ Testing was run on CircleCI to check whether the code is working correctly and u
 
 #### Results
 
-The functionality within my application: Create, Read and Delete.
+The functionality within my application: Create, Read and Delete.,
 The user is able to to login and access their bookings through the booking page. Suppose the user wants to delete their booking they are able to do so with the click of one button.
 
 ![Login page](https://user-images.githubusercontent.com/67292767/92315035-0db28880-efd8-11ea-89ac-218bb6ef231b.png)
