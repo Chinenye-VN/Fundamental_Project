@@ -1,16 +1,4 @@
 # **_Fundamental_Project_**
-> To create a CRUD application with the utilisation of supporting tools, methodologies and technologies that encapsulate all core modules covered during training.
-A Jira board with full expansion on user stories, use cases and tasks needed to complete the project.
-Clear Documentation from a design phase describing the architecture you will use for your project.
-A detailed Risk Assessment created at the beginning of your project.
-A relational database used to store data persistently for the project.
-A functional application created in the OOP language, following best practices and design principles, that you have covered during training, this application needs to meet the requirements set on your Kanban Board
-The application must have a functioning front-end website and integrated API.
-Fully designed test suites for the application you are creating, as well as automated tests for validation of the application.
-You must meet an acceptable level of test coverage in your backend and provide consistent reports and evidence that you have done so.
-Code fully integrated into a Version Control System
-Code built through a CI server
-Application deployed to a cloud-based virtual machine
 
 # **_Designer Nails App_**
 
@@ -52,17 +40,26 @@ A Jira board was used to create a backlog of issues which are the tasks that wer
 ![Sprint Board](https://user-images.githubusercontent.com/67292767/92315020-e2c83480-efd7-11ea-9e65-cc0018f92e25.png)
 
 #### Risk Assessment
- WHenever planning a project one needs to think of the potential risks that may occur. As this being my first technical project I had to think of the possible risks that may occur and how to lessen the threats of the risks; I had to assess the potential threats that can occur with the developer(Chinenye Nwandu), the user and the Cloud Service provider. Here are some of the risks and mitigations are show:
+Whenever planning a project one needs to think of the potential risks that may occur. As this being my first technical project I had to think of the possible risks that may occur and how to lessen the threats of the risks; I had to assess the potential threats that can occur with the developer(Chinenye Nwandu), the user and the Cloud Service provider. Here are some of the risks and mitigations are show:
+
 ![Risk Assessment Table](https://user-images.githubusercontent.com/67292767/92315234-95999200-efda-11ea-9eeb-a0a210a9193d.png)
 
 #### Testing
+Testing was run on CircleCI to check whether the code is working correctly and up to date. The testing passed as seen in the image.
 
 ![CircleCI Test](https://user-images.githubusercontent.com/67292767/92315027-fffd0300-efd7-11ea-82df-0d8545b148e2.png)
 
 #### Technology
+## CI Pipleine
 
 ![Architechure](https://user-images.githubusercontent.com/67292767/92335150-3f852700-f08c-11ea-9889-307e4b76ad98.png)
 
+
+
 #### Results
+
+The functionality within my application: Create, Read and Delete.
+The user is able to to login and access their bookings through the booking page. Suppose the user wants to delete their booking they are able to do so with the click of one button.
+
 ![Login page](https://user-images.githubusercontent.com/67292767/92315035-0db28880-efd8-11ea-89ac-218bb6ef231b.png)
 ![All Bookings](https://user-images.githubusercontent.com/67292767/92315023-ea87d900-efd7-11ea-9739-e19794170b8d.png)
