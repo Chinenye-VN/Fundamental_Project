@@ -20,16 +20,16 @@
 
 * [Results](#Results)
 
-#### Overview
+## Overview
  The objective for this project is to design a using the CRUD fuctionality which stands for; Create, Read, Update and Delete. The application I designed and created allows customers to book nail treatment services. The user will be able to manage their bookings by selecting a treatment.
  The user will be able to create a login in order to book a service, which will be stored in my Customers Database. The user can view and edit their bookings which will then be updated in database.
  
-#### Project Tracking 
+## Project Tracking 
 For this project I intended to have three entity tables as shown in below. The first diagram show the relationship between the three entity tables, however it would have been difficult to implement the relationship between all three, so for simplicity and time constraint I reduced the database to two tables.
 
 ![ERD](https://user-images.githubusercontent.com/67292767/92315028-03908a00-efd8-11ea-9741-66f749829379.png)
 
-Below shows the end result of the relationship between the two entity tables.
+Below shows the end result of the relationship between the two entity tables that was used for my web application.
 
 ![ERD](https://user-images.githubusercontent.com/67292767/92315030-07241100-efd8-11ea-93a3-aa477607ce2f.png)
 
@@ -39,7 +39,7 @@ A Jira board was used to create a backlog of issues which are the tasks that wer
 
 ![Sprint Board](https://user-images.githubusercontent.com/67292767/92315020-e2c83480-efd7-11ea-9e65-cc0018f92e25.png)
 
-#### Risk Assessment
+## Risk Assessment
 Whenever planning a project one needs to think of the potential risks that may occur. As this being my first technical project I had to think of the possible risks that may occur and how to lessen the threats of the risks; I had to assess the potential threats that can occur with the developer(Chinenye Nwandu), the user and the Cloud Service provider. Here are some of the risks and mitigations are show:
 
 ![Risk Assessment Table](https://user-images.githubusercontent.com/67292767/92315234-95999200-efda-11ea-9eeb-a0a210a9193d.png)
@@ -50,10 +50,13 @@ Testing was run on CircleCI to check whether the code is working correctly and u
 ![CircleCI Test](https://user-images.githubusercontent.com/67292767/92315027-fffd0300-efd7-11ea-82df-0d8545b148e2.png)
 ![Test](https://user-images.githubusercontent.com/67292767/92337258-559ce280-f0a0-11ea-87a8-0a92a2a89335.png)
 
-#### Technology
-## CI Pipleine
+## Technology
+#### CI Pipleine
 
 ![Architechure](https://user-images.githubusercontent.com/67292767/92335150-3f852700-f08c-11ea-9889-307e4b76ad98.png)
+
+This shows the workflow of my code and the actual techology used during the progression of this project.,
+The code fore my application was written in Java, to save and document my code a repository was created in Github, whereby I can  retrieve the code, edit my code and commit the changes.
 
 
 
