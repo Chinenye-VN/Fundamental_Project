@@ -33,23 +33,26 @@ Application deployed to a cloud-based virtual machine
 * [Results](#Results)
 
 #### Overview
- This app allows customers to book the type of nail service they require. The customer will be able to manage their bookings by selecting a treatment.
- For the CRUD functionality, the user can create a login in order to book a service, which will be stored in my Customers Database. The user can view and edit     their bookings which will then be updated in database.
+ The objective for this project is to design a using the CRUD fuctionality which stands for; Create, Read, Update and Delete. The application I designed and created allows customers to book nail treatment services. The user will be able to manage their bookings by selecting a treatment.
+ The user will be able to create a login in order to book a service, which will be stored in my Customers Database. The user can view and edit their bookings which will then be updated in database.
  
 #### Project Tracking 
-Initially had three relationship tables, however if would have been difficult to implement the relationship between all three, so for simplicity and due to lack of time I reduced the database to two tables.
-
+For this project I intended to have three entity tables as shown in below. The first diagram show the relationship between the three entity tables, however it would have been difficult to implement the relationship between all three, so for simplicity and time constraint I reduced the database to two tables.
 
 ![ERD](https://user-images.githubusercontent.com/67292767/92315028-03908a00-efd8-11ea-9741-66f749829379.png)
 
+Below shows the end result of the relationship between the two entity tables.
+
 ![ERD](https://user-images.githubusercontent.com/67292767/92315030-07241100-efd8-11ea-93a3-aa477607ce2f.png)
+
+A Jira board was used to create a backlog of issues which are the tasks that were assigned to creation and completion my application. These tasks were divided into stories and epics which ensured that I had the suitable task was assigned to a specific topic.Below are examples of tasks in diferent stages depending on whether the are completed or in the process of completion.
 
 ![Backlog](https://user-images.githubusercontent.com/67292767/92315039-11dea600-efd8-11ea-90c3-1b341f93b84c.png)
 
 ![Sprint Board](https://user-images.githubusercontent.com/67292767/92315020-e2c83480-efd7-11ea-9e65-cc0018f92e25.png)
 
 #### Risk Assessment
-
+ WHenever planning a project one needs to think of the potential risks that may occur. As this being my first technical project I had to think of the possible risks that may occur and how to lessen the threats of the risks; I had to assess the potential threats that can occur with the developer(Chinenye Nwandu), the user and the Cloud Service provider. Here are some of the risks and mitigations are show:
 ![Risk Assessment Table](https://user-images.githubusercontent.com/67292767/92315234-95999200-efda-11ea-9eeb-a0a210a9193d.png)
 
 #### Testing
