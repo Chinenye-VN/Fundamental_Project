@@ -58,6 +58,8 @@ Initially had three relationship tables, however if would have been difficult to
 
 #### Technology
 
+![Architechure](https://user-images.githubusercontent.com/67292767/92335150-3f852700-f08c-11ea-9889-307e4b76ad98.png)
+
 #### Results
 ![Login page](https://user-images.githubusercontent.com/67292767/92315035-0db28880-efd8-11ea-89ac-218bb6ef231b.png)
 ![All Bookings](https://user-images.githubusercontent.com/67292767/92315023-ea87d900-efd7-11ea-9739-e19794170b8d.png)
