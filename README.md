@@ -50,8 +50,11 @@ Whenever planning a project one needs to think of the potential risks that may o
 
 #### MoSCoW
 Must have: CRUD functionality
+
 Should have: Database 
+
 Could have: Hyperlink buttons
+
 Won't have: Pictures
 
 
