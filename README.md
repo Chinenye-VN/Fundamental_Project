@@ -57,7 +57,7 @@ Testing was run on CircleCI to check whether the code is working correctly and u
 
 This shows the workflow of my code and the actual techology used during the progression of this project.
 
-The code for my application was written in Java, to save and document my code a repository was created in Github, whereby I can  retrieve the code, edit my code and commit the changes. Once I had completed a task, I would update my jira board to show and by updating my sprint, I was able to see what other tasks needed to be implemented. Once all of that was completed the next stage was the automated testing, building and deploying of the apllication.
+The code for my application was written in Java, to save and document my code a repository was created in Github, whereby I can  retrieve the code, edit my code and commit the changes. Once I had completed a task, I would update my jira board to show and by updating my sprint, I was able to see what other tasks needed to be implemented. Once all of that was completed the next stage was the automated testing, building and deploying of the application. CircleCi
 
 
 
