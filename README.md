@@ -55,15 +55,16 @@ Testing was run on CircleCI to check whether the code is working correctly and u
 
 ![Architechure](https://user-images.githubusercontent.com/67292767/92335150-3f852700-f08c-11ea-9889-307e4b76ad98.png)
 
-This shows the workflow of my code and the actual techology used during the progression of this project.,
+This shows the workflow of my code and the actual techology used during the progression of this project.
 
-The code fore my application was written in Java, to save and document my code a repository was created in Github, whereby I can  retrieve the code, edit my code and commit the changes.
+The code for my application was written in Java, to save and document my code a repository was created in Github, whereby I can  retrieve the code, edit my code and commit the changes. Once I had completed a task, I would update my jira board to show and by updating my sprint, I was able to see what other tasks needed to be implemented. Once all of that was completed the next stage was the automated testing, building and deploying of the apllication.
 
 
 
 #### Results
 
-The functionality within my application: Create, Read and Delete,..
+The functionality within my application: Create, Read and Delete.
+
 The user is able to to login and access their bookings through the booking page. Suppose the user wants to delete their booking they are able to do so with the click of one button.
 
 ![Login page](https://user-images.githubusercontent.com/67292767/92315035-0db28880-efd8-11ea-89ac-218bb6ef231b.png)
