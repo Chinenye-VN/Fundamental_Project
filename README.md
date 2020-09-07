@@ -20,10 +20,14 @@
 
 * [Results](#Results)
 
+* [Improvements](#Improvements)
+
 ## Overview
  The objective for this project is to design a using the CRUD fuctionality which stands for; Create, Read, Update and Delete. The application I designed and created allows customers to book nail treatment services. The user will be able to manage their bookings by selecting a treatment.
  The user will be able to create a login in order to book a service, which will be stored in my Customers Database. The user can view and edit their bookings which will then be updated in database.
  
+## Planning
+
 ## Project Tracking 
 For this project I intended to have three entity tables as shown in below. The first diagram show the relationship between the three entity tables, however it would have been difficult to implement the relationship between all three, so for simplicity and time constraint I reduced the database to two tables.
 
@@ -44,11 +48,13 @@ Whenever planning a project one needs to think of the potential risks that may o
 
 ![Risk Assessment Table](https://user-images.githubusercontent.com/67292767/92315234-95999200-efda-11ea-9eeb-a0a210a9193d.png)
 
-#### Testing
+
+## Testing
 Testing was run on CircleCI to check whether the code is working correctly and up to date. The testing passed as seen in the image.
 
 ![CircleCI Test](https://user-images.githubusercontent.com/67292767/92315027-fffd0300-efd7-11ea-82df-0d8545b148e2.png)
 ![Test](https://user-images.githubusercontent.com/67292767/92337258-559ce280-f0a0-11ea-87a8-0a92a2a89335.png)
+
 
 ## Technology
 #### CI Pipleine
@@ -56,16 +62,34 @@ Testing was run on CircleCI to check whether the code is working correctly and u
 ![Architechure](https://user-images.githubusercontent.com/67292767/92335150-3f852700-f08c-11ea-9889-307e4b76ad98.png)
 
 This shows the workflow of my code and the actual techology used during the progression of this project.
+Javascript and HTML was used for the front-end coding for this application.
 
-The code for my application was written in Java, to save and document my code a repository was created in Github, whereby I can  retrieve the code, edit my code and commit the changes. Once I had completed a task, I would update my jira board to show and by updating my sprint, I was able to see what other tasks needed to be implemented. Once all of that was completed the next stage was the automated testing, building and deploying of the application. CircleCi
+The code for my application was written in Java, to save and document my code a repository was created in Github, whereby I can  retrieve the code, edit my code and commit the changes. Once I had completed a task, I would update my jira board to show and by updating my sprint, I was able to see what other tasks needed to be implemented. Once all of that was completed the next stage was the automated testing, building and deploying of the application. CircleCi then tests the application and if the test passes it starts to build the application depending on the tool used, for my application that would be maven. Then the application would run using the vm instance created in Goodle Cloud Platform.
 
 
 
-#### Results
 
-The functionality within my application: Create, Read and Delete.
+## Results
 
-The user is able to to login and access their bookings through the booking page. Suppose the user wants to delete their booking they are able to do so with the click of one button.
+The functionality within my application: Create, Read, Update & Delete .
+
+The user is able to to login and access their bookings through the booking page. Suppose the user wants to delete their booking they are able to do so with click of one button.
 
 ![Login page](https://user-images.githubusercontent.com/67292767/92315035-0db28880-efd8-11ea-89ac-218bb6ef231b.png)
 ![All Bookings](https://user-images.githubusercontent.com/67292767/92315023-ea87d900-efd7-11ea-9739-e19794170b8d.png)
+
+
+## Improvements
+ 
+* My application met the MVP, however when it came to deploying the application using CircleCI it failed, it would've been better for my application to run through the cloud server rather than running it through Java. Need to fix the issue with SSH keys so that GitHub can access my username.
+
+* Could've had a SQL server to work as the database storage for the back-end.
+
+* My application would've been better if it had the third entity table and added the functionality for customers to edit treatments and booking.
+
+* It could be more asthetically pleasing to the eye, but for an initial 
+ 
+
+## Author
+Chinenye Nwandu
+
